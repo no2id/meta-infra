@@ -15,7 +15,7 @@ This policy (together with our [terms and conditions](/terms-and-conditions/) an
 
 1. **Information we may collect from you**
   
-     1. When you send us an email or visit our site, we may collect from both public and private areas of the site personal information volunteered by you about you ("Data"). When you visit our site you are agreeing to the transfer, storage and processing of Data by us. The types of Data we collect are:
+     1. When you send us an email, fill out a form, or visit our site, we may collect from both public and private areas of the site personal information volunteered by you about you ("Data"). When you visit our site you are agreeing to the transfer, storage and processing of Data by us. The types of Data we collect are:
 
        - **Data You Give Us:** we receive and store any information you enter on our website or give us in any other way. You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, improving our site and communicating with you.
 
