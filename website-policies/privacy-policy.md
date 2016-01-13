@@ -4,7 +4,7 @@
 
 We are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms and conditions](/terms-and-conditions/) and any other documents referred to in it) sets out the basis on which we will process any personal data we collect from you or that you provide to us when you make use of our websites, including https://www.no2id.net and its affiliated sites (together, the, or our, "site"). Please read this privacy policy carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms and conditions](/terms-and-conditions/) and any other documents referred to in it) sets out the basis on which we will process any personal data we collect from you or that you provide to us when you make use of our websites, including https://www.no2id.net, https://s.no2idmailouts.com, and its affiliated sites (together, the, or our, "site"). Please read this privacy policy carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 1. **Controller of Personal Data**
 

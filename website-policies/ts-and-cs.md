@@ -2,7 +2,7 @@
 
 **Terms and conditions of use**
 
-This page (together with the documents referred to on it) contains the terms and conditions of use on which you may make use of our websites, including https://www.no2id.net and its affiliated sites (together, the, or our, "site"). Please read these terms and conditions carefully before you start to use the site. By browsing, accessing or otherwise using our site, you accept these terms and conditions without any limitation or qualification and you agree to abide by them. If you do not agree to these terms and conditions of use, please leave the site immediately and refrain from visiting our site in the future.
+This page (together with the documents referred to on it) contains the terms and conditions of use on which you may make use of our websites, including https://www.no2id.net, https://s.no2idmailouts.com, and its affiliated sites (together, the, or our, "site"). Please read these terms and conditions carefully before you start to use the site. By browsing, accessing or otherwise using our site, you accept these terms and conditions without any limitation or qualification and you agree to abide by them. If you do not agree to these terms and conditions of use, please leave the site immediately and refrain from visiting our site in the future.
 
 1. **Information about NO2ID**
     1. https://www.no2id.net is a site operated by NO2ID Ltd ("we/us/our"). We are a private company limited by guarantee registered in England and Wales (with use of 'Limited' exemption) under company number 06895924 and have our registered office at Flat 9, 10 Cambridge Gate, London, NW1 4JX.
