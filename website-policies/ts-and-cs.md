@@ -14,18 +14,25 @@ This page (together with the documents referred to on it) contains the terms and
     2. You are responsible for making all arrangements necessary for you to have access to our site. You are also responsible for ensuring that all persons who access our site through your internet connection, computer or other device are aware of these terms and conditions and that they comply with them.
     
 3. **Cookies**
-    1. Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
+    1. Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By continuing to browse the site, without taking blocking action (at your own choice), you are agreeing to our use of cookies.
     2. A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.
     3. We use the following cookies:
         1. **Strictly necessary cookies.** These are cookies that are required for the operation of our site. They include, for example, cookies that enable you to log into areas of our site.
         2. **Analytical/performance cookies.** They allow us to recognise and count the number of visitors and to see how visitors move around our site when they are using it. This helps us to improve the way our site works, for example, by ensuring that users are finding what they are looking for easily.
         3. **Functionality cookies.** These are used to recognise you when you return to our site. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+        4. **Third party cookies.**
     4. You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
-
-        | **Cookie Name** | **Purpose** | **More information** |
+	
+        | **Service** | **Cookie Name** | **Purpose** | **More information** |
         | --- | --- | --- | 
-        |
+        | Google Analytics | _utma, _utmb, _utmc, _utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports on general user traffic, conversion statistics and to help us improve the site. The cookies collect information anonymously. | http://www.google.com/policies/privacy/ |
+        | Facebook | act, locale, lu, datr, csm | These cookies allow users to “Like” pages and posts on our site and us to show the number of these in total. | https://www.facebook.com/about/privacy/ |
+		| Twitter | k, guest_id, auth_token_session, secure_session, twll | These cookies allow users to Tweet pages and posts on our site and us to show the number of these in total. | https://twitter.com/privacy |
+		| Google Website Optimizer | __utmx, __utmxx | We test new designs or site features on our site. We do this by showing slightly different versions of our website to different people and anonymously monitoring how our site visitors respond to these different versions (""A/B testing"). Ultimately this helps us to offer you a better website. We use Google Website Optimizer for this purpose | http://www.google.com/policies/privacy/ |
+		| WordPress Jetpack | akm_mobile, jetpack_comments_subscribe, jetpack_blog_subscribe, jpp_math_pass, stnojs | We use JetPack to add extra functionality to the site, that is not native in Wordpress self-installs, but which are in wordpress.com | https://jetpack.me/support/cookies/ |
 
+		1. **Social Buttons** - In order to implement the Social Media Buttons including Twitter, Facebook and Google+, and connect them to the relevant social networks and external sites, there are scripts running on our site from domains outside our control. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on our site. If you click on any of these buttons, these sites will be registering that action and may use that information. Please check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
+	
     5. Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical or performance cookies or targeting cookies.
     6. You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
   
